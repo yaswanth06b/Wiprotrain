@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day3\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|c:\\wipro\\day3\\arrays\\arrays\\refe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\refe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|C:\\wipro\\day3\\Arrays\\arrays\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Arrays||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|C:\\wipro\\day3\\Arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|c:\\wipro\\day3\\arrays\\arrays\\matrixcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\matrixcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|c:\\wipro\\day3\\arrays\\arrays\\jaggedarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\jaggedarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C779B-795E-4E4E-B52A-A29E9506A1FB}|Arrays\\Arrays.csproj|c:\\wipro\\day3\\arrays\\arrays\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Refe.cs",
+              "DocumentMoniker": "C:\\wipro\\day3\\Arrays\\Arrays\\Refe.cs",
+              "RelativeDocumentMoniker": "Arrays\\Refe.cs",
+              "ToolTip": "C:\\wipro\\day3\\Arrays\\Arrays\\Refe.cs",
+              "RelativeToolTip": "Arrays\\Refe.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:35:13.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JaggedArr.cs",
+              "DocumentMoniker": "C:\\wipro\\day3\\Arrays\\Arrays\\JaggedArr.cs",
+              "RelativeDocumentMoniker": "Arrays\\JaggedArr.cs",
+              "ToolTip": "C:\\wipro\\day3\\Arrays\\Arrays\\JaggedArr.cs",
+              "RelativeToolTip": "Arrays\\JaggedArr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:25:08.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matrixcs.cs",
+              "DocumentMoniker": "C:\\wipro\\day3\\Arrays\\Arrays\\Matrixcs.cs",
+              "RelativeDocumentMoniker": "Arrays\\Matrixcs.cs",
+              "ToolTip": "C:\\wipro\\day3\\Arrays\\Arrays\\Matrixcs.cs",
+              "RelativeToolTip": "Arrays\\Matrixcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:32:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\wipro\\day3\\Arrays\\Arrays\\Array.cs",
+              "RelativeDocumentMoniker": "Arrays\\Array.cs",
+              "ToolTip": "C:\\wipro\\day3\\Arrays\\Arrays\\Array.cs",
+              "RelativeToolTip": "Arrays\\Array.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:23:19.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrays",
+              "DocumentMoniker": "C:\\wipro\\day3\\Arrays\\Arrays\\Arrays.csproj",
+              "RelativeDocumentMoniker": "Arrays\\Arrays.csproj",
+              "ToolTip": "C:\\wipro\\day3\\Arrays\\Arrays\\Arrays.csproj",
+              "RelativeToolTip": "Arrays\\Arrays.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T10:08:25.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day3\\Arrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\wipro\\day3\\Arrays\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:24:55.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
