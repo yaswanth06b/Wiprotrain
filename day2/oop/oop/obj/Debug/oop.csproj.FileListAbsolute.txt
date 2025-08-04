@@ -1,0 +1,13 @@
+C:\wipro\day1\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+C:\wipro\day1\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+C:\wipro\day1\oop\oop\bin\Debug\oop.exe.config
+C:\wipro\day1\oop\oop\bin\Debug\oop.exe
+C:\wipro\day1\oop\oop\bin\Debug\oop.pdb
+C:\wipro\day1\oop\oop\obj\Debug\oop.exe
+C:\wipro\day1\oop\oop\obj\Debug\oop.pdb
+C:\wipro\day1\oop\oop\obj\Debug\oop.exe.config
+C:\wipro\day2\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+C:\wipro\day2\oop\oop\obj\Debug\oop.exe.config
+C:\wipro\day2\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+C:\wipro\day2\oop\oop\obj\Debug\oop.exe
+C:\wipro\day2\oop\oop\obj\Debug\oop.pdb

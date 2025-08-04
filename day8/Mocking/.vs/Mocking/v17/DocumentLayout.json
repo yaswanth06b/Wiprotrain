@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day8\\Mocking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|c:\\wipro\\day8\\mocking\\mocking\\mocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|solutionrelative:mocking\\mocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|c:\\wipro\\day8\\mocking\\mocking\\wiprodta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|solutionrelative:mocking\\wiprodta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|c:\\wipro\\day8\\mocking\\mocking\\iwipridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|solutionrelative:mocking\\iwipridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|c:\\wipro\\day8\\mocking\\mocking\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D673FD-42AC-44FF-BEDC-DF6AAE9125B9}|Mocking\\Mocking.csproj|solutionrelative:mocking\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mocktest.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Mocking\\Mocking\\Mocktest.cs",
+              "RelativeDocumentMoniker": "Mocking\\Mocktest.cs",
+              "ToolTip": "C:\\wipro\\day8\\Mocking\\Mocking\\Mocktest.cs",
+              "RelativeToolTip": "Mocking\\Mocktest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:53:37.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wiprodta.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Mocking\\Mocking\\Wiprodta.cs",
+              "RelativeDocumentMoniker": "Mocking\\Wiprodta.cs",
+              "ToolTip": "C:\\wipro\\day8\\Mocking\\Mocking\\Wiprodta.cs",
+              "RelativeToolTip": "Mocking\\Wiprodta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:48:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iwipridata.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Mocking\\Mocking\\Iwipridata.cs",
+              "RelativeDocumentMoniker": "Mocking\\Iwipridata.cs",
+              "ToolTip": "C:\\wipro\\day8\\Mocking\\Mocking\\Iwipridata.cs",
+              "RelativeToolTip": "Mocking\\Iwipridata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:48:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Mocking\\Mocking\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Mocking\\UnitTest1.cs",
+              "ToolTip": "C:\\wipro\\day8\\Mocking\\Mocking\\UnitTest1.cs",
+              "RelativeToolTip": "Mocking\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:28:28.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

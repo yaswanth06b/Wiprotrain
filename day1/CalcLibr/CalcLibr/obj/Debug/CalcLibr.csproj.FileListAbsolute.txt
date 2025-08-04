@@ -1,0 +1,6 @@
+C:\wipro\day1\CalcLibr\CalcLibr\bin\Debug\CalcLibr.dll
+C:\wipro\day1\CalcLibr\CalcLibr\bin\Debug\CalcLibr.pdb
+C:\wipro\day1\CalcLibr\CalcLibr\obj\Debug\CalcLibr.csproj.AssemblyReference.cache
+C:\wipro\day1\CalcLibr\CalcLibr\obj\Debug\CalcLibr.csproj.CoreCompileInputs.cache
+C:\wipro\day1\CalcLibr\CalcLibr\obj\Debug\CalcLibr.dll
+C:\wipro\day1\CalcLibr\CalcLibr\obj\Debug\CalcLibr.pdb

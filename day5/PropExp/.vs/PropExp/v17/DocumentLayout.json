@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day5\\PropExp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\filewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\filewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\arrlexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\arrlexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PropExp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\outpara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\outpara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\autoimpprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\autoimpprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\writeexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\writeexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\readexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\readexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|solutionrelative:propexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A7114-7BA4-499C-837C-ECBE781CCC1C}|PropExp\\PropExp.csproj|c:\\wipro\\day5\\propexp\\propexp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileWrite.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\FileWrite.cs",
+              "RelativeDocumentMoniker": "PropExp\\FileWrite.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\FileWrite.cs",
+              "RelativeToolTip": "PropExp\\FileWrite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:32:41.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Outpara.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\Outpara.cs",
+              "RelativeDocumentMoniker": "PropExp\\Outpara.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\Outpara.cs",
+              "RelativeToolTip": "PropExp\\Outpara.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:45:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stacks.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\Stacks.cs",
+              "RelativeDocumentMoniker": "PropExp\\Stacks.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\Stacks.cs",
+              "RelativeToolTip": "PropExp\\Stacks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:44:28.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrlExp.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\ArrlExp.cs",
+              "RelativeDocumentMoniker": "PropExp\\ArrlExp.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\ArrlExp.cs",
+              "RelativeToolTip": "PropExp\\ArrlExp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:11:18.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoImpProp.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\AutoImpProp.cs",
+              "RelativeDocumentMoniker": "PropExp\\AutoImpProp.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\AutoImpProp.cs",
+              "RelativeToolTip": "PropExp\\AutoImpProp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:59:51.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WriteExp.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\WriteExp.cs",
+              "RelativeDocumentMoniker": "PropExp\\WriteExp.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\WriteExp.cs",
+              "RelativeToolTip": "PropExp\\WriteExp.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:41:05.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropExp",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\PropExp.csproj",
+              "RelativeDocumentMoniker": "PropExp\\PropExp.csproj",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\PropExp.csproj",
+              "RelativeToolTip": "PropExp\\PropExp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T04:37:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadExmp.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\ReadExmp.cs",
+              "RelativeDocumentMoniker": "PropExp\\ReadExmp.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\ReadExmp.cs",
+              "RelativeToolTip": "PropExp\\ReadExmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:37:23.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\PropExp\\PropExp\\Program.cs",
+              "RelativeDocumentMoniker": "PropExp\\Program.cs",
+              "ToolTip": "C:\\wipro\\day5\\PropExp\\PropExp\\Program.cs",
+              "RelativeToolTip": "PropExp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:30:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\wipro\day1\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\wipro\day1\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\wipro\day1\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\wipro\day1\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\wipro\day1\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\wipro\day1\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\wipro\day1\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\wipro\day1\Arrays\Arrays\obj\Debug\Arrays.exe.config
+C:\wipro\day3\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\wipro\day3\Arrays\Arrays\obj\Debug\Arrays.exe.config
+C:\wipro\day3\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\wipro\day3\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\wipro\day3\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\wipro\day3\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\wipro\day3\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\wipro\day3\Arrays\Arrays\bin\Debug\Arrays.pdb

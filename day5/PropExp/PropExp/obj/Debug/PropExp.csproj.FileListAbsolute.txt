@@ -1,0 +1,8 @@
+C:\wipro\day5\PropExp\PropExp\obj\Debug\PropExp.csproj.AssemblyReference.cache
+C:\wipro\day5\PropExp\PropExp\obj\Debug\PropExp.csproj.CoreCompileInputs.cache
+C:\wipro\day5\PropExp\PropExp\bin\Debug\PropExp.exe.config
+C:\wipro\day5\PropExp\PropExp\bin\Debug\PropExp.exe
+C:\wipro\day5\PropExp\PropExp\bin\Debug\PropExp.pdb
+C:\wipro\day5\PropExp\PropExp\obj\Debug\PropExp.exe
+C:\wipro\day5\PropExp\PropExp\obj\Debug\PropExp.pdb
+C:\wipro\day5\PropExp\PropExp\obj\Debug\PropExp.exe.config

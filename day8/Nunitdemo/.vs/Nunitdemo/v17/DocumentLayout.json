@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day8\\Nunitdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34179B84-2FCC-49E4-862A-D6614B5611E4}|..\\Nunit.tests\\Nunit.tests.csproj|c:\\wipro\\day8\\nunit.tests\\demotests1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A29727B-8E9B-415A-B2A6-5EEEA009EDBE}|Nunitdemo\\Nunitdemo.csproj|c:\\wipro\\day8\\nunitdemo\\nunitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A29727B-8E9B-415A-B2A6-5EEEA009EDBE}|Nunitdemo\\Nunitdemo.csproj|solutionrelative:nunitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A29727B-8E9B-415A-B2A6-5EEEA009EDBE}|Nunitdemo\\Nunitdemo.csproj|c:\\wipro\\day8\\nunitdemo\\nunitdemo\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A29727B-8E9B-415A-B2A6-5EEEA009EDBE}|Nunitdemo\\Nunitdemo.csproj|solutionrelative:nunitdemo\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34179B84-2FCC-49E4-862A-D6614B5611E4}|..\\Nunit.tests\\Nunit.tests.csproj|c:\\wipro\\day8\\nunit.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demotests1.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Nunit.tests\\Demotests1.cs",
+              "RelativeDocumentMoniker": "..\\Nunit.tests\\Demotests1.cs",
+              "ToolTip": "C:\\wipro\\day8\\Nunit.tests\\Demotests1.cs",
+              "RelativeToolTip": "..\\Nunit.tests\\Demotests1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:38:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Nunit.tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Nunit.tests\\UnitTest1.cs",
+              "ToolTip": "C:\\wipro\\day8\\Nunit.tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Nunit.tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:37:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Nunitdemo\\Nunitdemo\\Demo.cs",
+              "RelativeDocumentMoniker": "Nunitdemo\\Demo.cs",
+              "ToolTip": "C:\\wipro\\day8\\Nunitdemo\\Nunitdemo\\Demo.cs",
+              "RelativeToolTip": "Nunitdemo\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:36:05.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day8\\Nunitdemo\\Nunitdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Nunitdemo\\Program.cs",
+              "ToolTip": "C:\\wipro\\day8\\Nunitdemo\\Nunitdemo\\Program.cs",
+              "RelativeToolTip": "Nunitdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:35:36.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
