@@ -1,0 +1,16 @@
+C:\wipro\day7\Practice\Practice\bin\Debug\Practice.exe.config
+C:\wipro\day7\Practice\Practice\bin\Debug\Practice.exe
+C:\wipro\day7\Practice\Practice\bin\Debug\Practice.pdb
+C:\wipro\day7\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\wipro\day7\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\wipro\day7\Practice\Practice\obj\Debug\Practice.exe
+C:\wipro\day7\Practice\Practice\obj\Debug\Practice.pdb
+C:\wipro\day7\Practice\Practice\obj\Debug\Practice.exe.config
+C:\wipro\practice\Practice\Practice\bin\Debug\Practice.exe.config
+C:\wipro\practice\Practice\Practice\bin\Debug\Practice.exe
+C:\wipro\practice\Practice\Practice\bin\Debug\Practice.pdb
+C:\wipro\practice\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\wipro\practice\Practice\Practice\obj\Debug\Practice.exe.config
+C:\wipro\practice\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\wipro\practice\Practice\Practice\obj\Debug\Practice.exe
+C:\wipro\practice\Practice\Practice\obj\Debug\Practice.pdb

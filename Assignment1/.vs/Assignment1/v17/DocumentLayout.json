@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09145F7-A132-4FD1-B56D-50CB5293FA95}|TestAsg\\TestAsg.csproj|c:\\wipro\\assignment1\\testasg\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09145F7-A132-4FD1-B56D-50CB5293FA95}|TestAsg\\TestAsg.csproj|solutionrelative:testasg\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6405FE7-9E28-4635-A280-BB817BAEA98E}|Assignment1\\Assignment1.csproj|C:\\wipro\\Assignment1\\assignment1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6405FE7-9E28-4635-A280-BB817BAEA98E}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6405FE7-9E28-4635-A280-BB817BAEA98E}|Assignment1\\Assignment1.csproj|C:\\wipro\\Assignment1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6405FE7-9E28-4635-A280-BB817BAEA98E}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6405FE7-9E28-4635-A280-BB817BAEA98E}|Assignment1\\Assignment1.csproj|c:\\wipro\\assignment1\\assignment1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\wipro\\Assignment1\\TestAsg\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestAsg\\UnitTest1.cs",
+              "ToolTip": "C:\\wipro\\Assignment1\\TestAsg\\UnitTest1.cs",
+              "RelativeToolTip": "TestAsg\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:59:02.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment1",
+              "DocumentMoniker": "C:\\wipro\\Assignment1\\Assignment1\\Assignment1.csproj",
+              "RelativeDocumentMoniker": "Assignment1\\Assignment1.csproj",
+              "ToolTip": "C:\\wipro\\Assignment1\\Assignment1\\Assignment1.csproj",
+              "RelativeToolTip": "Assignment1\\Assignment1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-05T12:34:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\wipro\\Assignment1\\Assignment1\\Calculator.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Calculator.cs",
+              "ToolTip": "C:\\wipro\\Assignment1\\Assignment1\\Calculator.cs",
+              "RelativeToolTip": "Assignment1\\Calculator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:33:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\wipro\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:30:26.482Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

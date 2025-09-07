@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\inmemoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\inmemoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|c:\\wipro\\product\\product\\models\\proddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E181F3-CDBF-426A-8CEF-05694450B687}|Product\\Product.csproj|solutionrelative:product\\models\\proddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaswa\\AppData\\Local\\Temp\\92414511-e0cb-4b88-9ff7-6f1cd7524114_Preptest.zip.114\\SecureLoginApp.Data\\SecureLoginApp.Data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Product\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:22:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "Product\\Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:28:19.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Program.cs",
+              "RelativeDocumentMoniker": "Product\\Program.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Program.cs",
+              "RelativeToolTip": "Product\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:18:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\ProductModel.cs*",
+              "RelativeToolTip": "Product\\Models\\ProductModel.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:15:54.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Product\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Product\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:21:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryUser.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\InMemoryUser.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\InMemoryUser.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\InMemoryUser.cs*",
+              "RelativeToolTip": "Product\\Models\\InMemoryUser.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:33:21.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Product\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:27:08.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\SeedData.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\SeedData.cs",
+              "RelativeToolTip": "Product\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:19:46.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Product\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:32:18.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Product\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:33:16.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\appsettings.json",
+              "RelativeDocumentMoniker": "Product\\appsettings.json",
+              "ToolTip": "C:\\wipro\\Product\\Product\\appsettings.json",
+              "RelativeToolTip": "Product\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T03:36:00.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Product\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:30:24.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Product\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:30:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Product\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:29:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEncryptionService.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\IEncryptionService.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\IEncryptionService.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\IEncryptionService.cs",
+              "RelativeToolTip": "Product\\Models\\IEncryptionService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:18:01.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Product\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:28:51.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "Product\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:16:40.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProdDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\Product\\Product\\Models\\ProdDbContext.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\ProdDbContext.cs",
+              "ToolTip": "C:\\wipro\\Product\\Product\\Models\\ProdDbContext.cs",
+              "RelativeToolTip": "Product\\Models\\ProdDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:13:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yaswa\\AppData\\Local\\Temp\\92414511-e0cb-4b88-9ff7-6f1cd7524114_Preptest.zip.114\\SecureLoginApp.Data\\SecureLoginApp.Data\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\yaswa\\AppData\\Local\\Temp\\92414511-e0cb-4b88-9ff7-6f1cd7524114_Preptest.zip.114\\SecureLoginApp.Data\\SecureLoginApp.Data\\appsettings.json",
+              "ToolTip": "C:\\Users\\yaswa\\AppData\\Local\\Temp\\92414511-e0cb-4b88-9ff7-6f1cd7524114_Preptest.zip.114\\SecureLoginApp.Data\\SecureLoginApp.Data\\appsettings.json [Read Only]",
+              "RelativeToolTip": "..\\..\\Users\\yaswa\\AppData\\Local\\Temp\\92414511-e0cb-4b88-9ff7-6f1cd7524114_Preptest.zip.114\\SecureLoginApp.Data\\SecureLoginApp.Data\\appsettings.json [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T03:11:07.447Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

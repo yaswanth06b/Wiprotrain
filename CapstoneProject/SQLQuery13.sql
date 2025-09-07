@@ -1,0 +1,10 @@
+SELECT TOP (1000) [NotificationID]
+      ,[UserID]
+      ,[Type]
+      ,[Title]
+      ,[Message]
+      ,[IsRead]
+      ,[CreatedAt]
+      ,[MetadataJson]
+  FROM [learning_platform].[dbo].[Notifications]
+  EXEC sp_rename 'notifications.UserID', 'UserId', 'COLUMN';

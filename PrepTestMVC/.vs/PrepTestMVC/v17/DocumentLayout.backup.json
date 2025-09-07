@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\PrepTestMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\views\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\views\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\views\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\views\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\views\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\views\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\views\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\views\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\controllers\\admincontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\controllers\\admincontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\models\\prepdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\models\\prepdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|c:\\wipro\\preptestmvc\\preptestmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC93294-BB21-4534-B974-7288E0614126}|PrepTestMVC\\PrepTestMVC.csproj|solutionrelative:preptestmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\Layout.cshtml",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Views\\Layout.cshtml",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\Layout.cshtml*",
+              "RelativeToolTip": "PrepTestMVC\\Views\\Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:18:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Views\\AccessDenied.cshtml",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\AccessDenied.cshtml",
+              "RelativeToolTip": "PrepTestMVC\\Views\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:17:39.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PrepTestMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:44:06.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Views\\Login.cshtml",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\Login.cshtml",
+              "RelativeToolTip": "PrepTestMVC\\Views\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:01:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Views\\UserProfile.cshtml",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\UserProfile.cshtml",
+              "RelativeToolTip": "PrepTestMVC\\Views\\UserProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:17:12.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Views\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Views\\AdminDashboard.cshtml",
+              "RelativeToolTip": "PrepTestMVC\\Views\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:16:38.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "PrepTestMVC\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:11:27.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PrepTestMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:56:59.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController1.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Controllers\\AdminController1.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Controllers\\AdminController1.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Controllers\\AdminController1.cs",
+              "RelativeToolTip": "PrepTestMVC\\Controllers\\AdminController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:55:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Program.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Program.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Program.cs",
+              "RelativeToolTip": "PrepTestMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:53:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "PrepTestMVC\\appsettings.json",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\appsettings.json",
+              "RelativeToolTip": "PrepTestMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T13:42:23.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrepDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Models\\PrepDbContext.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Models\\PrepDbContext.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Models\\PrepDbContext.cs",
+              "RelativeToolTip": "PrepTestMVC\\Models\\PrepDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:40:24.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Models\\Admin.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Models\\Admin.cs",
+              "RelativeToolTip": "PrepTestMVC\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:37:55.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PrepTestMVC\\Models\\User.cs",
+              "ToolTip": "C:\\wipro\\PrepTestMVC\\PrepTestMVC\\Models\\User.cs",
+              "RelativeToolTip": "PrepTestMVC\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:37:31.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

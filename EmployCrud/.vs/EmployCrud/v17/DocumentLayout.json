@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\EmployCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F87C47-EF6F-4EDE-A536-B45BCD715C72}|..\\RestEmployCrud\\RestEmployCrud.csproj|c:\\wipro\\restemploycrud\\controllers\\employnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F87C47-EF6F-4EDE-A536-B45BCD715C72}|..\\RestEmployCrud\\RestEmployCrud.csproj|c:\\wipro\\restemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F87C47-EF6F-4EDE-A536-B45BCD715C72}|..\\RestEmployCrud\\RestEmployCrud.csproj|c:\\wipro\\restemploycrud\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\RestEmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCrud\\Program.cs",
+              "ToolTip": "C:\\wipro\\RestEmployCrud\\Program.cs",
+              "RelativeToolTip": "..\\RestEmployCrud\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:22:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployNewController.cs",
+              "DocumentMoniker": "C:\\wipro\\RestEmployCrud\\Controllers\\EmployNewController.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCrud\\Controllers\\EmployNewController.cs",
+              "ToolTip": "C:\\wipro\\RestEmployCrud\\Controllers\\EmployNewController.cs",
+              "RelativeToolTip": "..\\RestEmployCrud\\Controllers\\EmployNewController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:18:57.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployController.cs",
+              "DocumentMoniker": "C:\\wipro\\RestEmployCrud\\Controllers\\EmployController.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCrud\\Controllers\\EmployController.cs",
+              "ToolTip": "C:\\wipro\\RestEmployCrud\\Controllers\\EmployController.cs",
+              "RelativeToolTip": "..\\RestEmployCrud\\Controllers\\EmployController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:47:08.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

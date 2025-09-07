@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day30\\Vehicle_Rental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\models\\loginrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\models\\loginrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|c:\\wipro\\day30\\vehicle_rental\\vehicle_rental\\vehicle_rental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF644686-93F0-4EF7-BA76-864B596110DC}|Vehicle_Rental\\Vehicle_Rental.csproj|solutionrelative:vehicle_rental\\vehicle_rental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Models\\AuthService.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\AuthService.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:25:29.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:31:38.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\appsettings.json",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\appsettings.json",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\appsettings.json",
+              "RelativeToolTip": "Vehicle_Rental\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T07:28:15.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:49:41.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Program.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Program.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:30:37.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:29:05.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\IAuthService.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:57:12.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Models\\Users.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\Users.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:48:37.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Models\\CarDbContext.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:51:12.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequests.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\LoginRequests.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Models\\LoginRequests.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Models\\LoginRequests.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Models\\LoginRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:29:50.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "Vehicle_Rental\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:51:55.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehicle_Rental.csproj",
+              "DocumentMoniker": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Vehicle_Rental.csproj",
+              "RelativeDocumentMoniker": "Vehicle_Rental\\Vehicle_Rental.csproj",
+              "ToolTip": "C:\\wipro\\Day30\\Vehicle_Rental\\Vehicle_Rental\\Vehicle_Rental.csproj",
+              "RelativeToolTip": "Vehicle_Rental\\Vehicle_Rental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T07:25:45.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

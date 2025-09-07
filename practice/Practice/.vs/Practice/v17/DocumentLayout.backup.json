@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\practice\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|c:\\wipro\\practice\\practice\\practice\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practice||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|c:\\wipro\\practice\\practice\\practice\\for.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\for.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|C:\\wipro\\practice\\Practice\\practice\\while.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\while.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|C:\\wipro\\practice\\Practice\\practice\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|C:\\wipro\\practice\\Practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|C:\\wipro\\practice\\Practice\\practice\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|C:\\wipro\\practice\\Practice\\practice\\votte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\votte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|C:\\wipro\\practice\\Practice\\practice\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|C:\\wipro\\practice\\Practice\\practice\\readlcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|solutionrelative:practice\\readlcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC07DAA-1E5B-491A-8809-B2532570FA7D}|Practice\\Practice.csproj|c:\\wipro\\practice\\practice\\practice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\Practice.csproj",
+              "RelativeDocumentMoniker": "Practice\\Practice.csproj",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\Practice.csproj",
+              "RelativeToolTip": "Practice\\Practice.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T07:04:27.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\Array.cs",
+              "RelativeDocumentMoniker": "Practice\\Array.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\Array.cs*",
+              "RelativeToolTip": "Practice\\Array.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:01:23.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "For.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\For.cs",
+              "RelativeDocumentMoniker": "Practice\\For.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\For.cs",
+              "RelativeToolTip": "Practice\\For.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:47:15.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "While.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\While.cs",
+              "RelativeDocumentMoniker": "Practice\\While.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\While.cs",
+              "RelativeToolTip": "Practice\\While.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:41:14.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\Switch.cs",
+              "RelativeDocumentMoniker": "Practice\\Switch.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\Switch.cs",
+              "RelativeToolTip": "Practice\\Switch.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:26:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loop.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\loop.cs",
+              "RelativeDocumentMoniker": "Practice\\loop.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\loop.cs",
+              "RelativeToolTip": "Practice\\loop.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:00:26.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VOtte1.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\VOtte1.cs",
+              "RelativeDocumentMoniker": "Practice\\VOtte1.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\VOtte1.cs",
+              "RelativeToolTip": "Practice\\VOtte1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:56:28.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Compare.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\Compare.cs",
+              "RelativeDocumentMoniker": "Practice\\Compare.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\Compare.cs",
+              "RelativeToolTip": "Practice\\Compare.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:50:25.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Readlcs.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\Readlcs.cs",
+              "RelativeDocumentMoniker": "Practice\\Readlcs.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\Readlcs.cs",
+              "RelativeToolTip": "Practice\\Readlcs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:05:17.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\practice\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\wipro\\practice\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:01:44.261Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

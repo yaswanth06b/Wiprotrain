@@ -1,0 +1,5 @@
+C:\wipro\Assignment1\TestAsg\obj\Debug\net8.0\TestAsg.csproj.AssemblyReference.cache
+C:\wipro\Assignment1\TestAsg\obj\Debug\net8.0\TestAsg.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Assignment1\TestAsg\obj\Debug\net8.0\TestAsg.AssemblyInfoInputs.cache
+C:\wipro\Assignment1\TestAsg\obj\Debug\net8.0\TestAsg.AssemblyInfo.cs
+C:\wipro\Assignment1\TestAsg\obj\Debug\net8.0\TestAsg.csproj.CoreCompileInputs.cache

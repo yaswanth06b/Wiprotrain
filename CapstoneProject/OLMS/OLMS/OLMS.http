@@ -1,0 +1,6 @@
+@OLMS_HostAddress = http://localhost:5274
+
+GET {{OLMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

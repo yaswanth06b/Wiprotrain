@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ProductViewModel>
+
+<h2>Products</h2>
+
+@if (ViewBag.Success != null)
+{
+    <div class="alert alert-success">@ViewBag.Success</div>
+}
+
+<table>
+    <thead>
+        <tr><th>Name</th><th>Price</th><th>Actions</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Price.ToString("C")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@p.Id">Edit</a>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <form asp-action="Delete" asp-route-id="@p.Id" method="post" style="display:inline">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" onclick="return confirm('Delete?')">Delete</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.IsInRole("Admin"))
+{
+    <a asp-action="Create">Create Product</a>
+}

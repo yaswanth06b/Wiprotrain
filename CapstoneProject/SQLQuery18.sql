@@ -1,0 +1,7 @@
+SELECT TOP (1000) [EnrollmentID]
+      ,[UserId]
+      ,[CourseID]
+      ,[EnrollmentDate]
+      ,[ProgressPercent]
+      ,[Status]
+  FROM [learning_platform].[dbo].[enrolments]

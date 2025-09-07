@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ProductModel>
+@{
+    ViewBag.Title = "Product List";
+    var role = Context.Session.GetString("Role");
+}
+<h2>Products</h2>
+
+@if (TempData["Message"] != null)
+{
+    <p style="color:green">@TempData["Message"]</p>
+}
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Id</td>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>
+                @if (role == "Admin" || role == "Manager")
+                {
+                    <a asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                }
+                @if (role == "Admin" || role == "Manager")
+                {
+                    <a asp-action="Delete" asp-route-id="@product.Id"> Delete </a>
+                }
+
+            </td>
+            @* <td>
+                <a href="@Url.Action("Edit", "Product", new { id = product.Id })">Edit</a> |
+                <a href="@Url.Action("Delete", "Product", new { id = product.Id })" class="text-danger">Delete</a>
+            </td> *@
+        </tr>
+    }
+</table>
+
+@if (role == "Admin")
+{
+    <br />
+    <a asp-action="Create">Create New Product</a>
+}
+<br />
+<br />
+<a asp-controller="Account" asp-action="Logout">Logout</a>

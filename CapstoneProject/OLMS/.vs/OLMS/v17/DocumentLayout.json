@@ -1,0 +1,712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\CapstoneProject\\OLMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\olmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\olmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\enrolmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\enrolmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\enrolmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\enrolmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\submissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\submissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\enrolments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\enrolments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\questionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\questionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\assignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\assignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\cred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\cred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|c:\\wipro\\capstoneproject\\olms\\olms\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0C8E-9B67-46ED-881F-D14F02C4A509}|OLMS\\OLMS.csproj|solutionrelative:olms\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OlmsDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\OlmsDbContext.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\OlmsDbContext.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\OlmsDbContext.cs",
+              "RelativeToolTip": "OLMS\\Models\\OlmsDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:42:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:36:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:59:23.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvz0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:47:27.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwHwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:30:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "OLMS\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:57:07.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\AuthService.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\AuthService.cs",
+              "RelativeToolTip": "OLMS\\Models\\AuthService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:06:14.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\UserRegisterDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\UserRegisterDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:50:56.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\appsettings.json",
+              "RelativeDocumentMoniker": "OLMS\\appsettings.json",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\appsettings.json",
+              "RelativeToolTip": "OLMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T06:44:52.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\UserLoginDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:06:20.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Program.cs",
+              "RelativeDocumentMoniker": "OLMS\\Program.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Program.cs",
+              "RelativeToolTip": "OLMS\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:01:19.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:31:59.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Users.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Users.cs",
+              "RelativeToolTip": "OLMS\\Models\\Users.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:05:19.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnrolmentsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\EnrolmentsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\EnrolmentsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\EnrolmentsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\EnrolmentsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA2wG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:48:14.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnrolmentDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\EnrolmentDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\EnrolmentDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\EnrolmentDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\EnrolmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:18:57.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\IAuthService.cs",
+              "RelativeToolTip": "OLMS\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:55:52.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:52:39.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:51:38.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Payments.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Payments.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Payments.cs",
+              "RelativeToolTip": "OLMS\\Models\\Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:29:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Submissions.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Submissions.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Submissions.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Submissions.cs",
+              "RelativeToolTip": "OLMS\\Models\\Submissions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:19:29.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Enrolments.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Enrolments.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Enrolments.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Enrolments.cs",
+              "RelativeToolTip": "OLMS\\Models\\Enrolments.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:35:53.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubmissionsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\SubmissionsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\SubmissionsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\SubmissionsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\SubmissionsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:49:21.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Courses.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Courses.cs",
+              "RelativeToolTip": "OLMS\\Models\\Courses.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:10:33.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Notifications.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Notifications.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Notifications.cs",
+              "RelativeToolTip": "OLMS\\Models\\Notifications.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:30:00.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Instructors.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Instructors.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Instructors.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Instructors.cs",
+              "RelativeToolTip": "OLMS\\Models\\Instructors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:28:33.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admins.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Admins.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Admins.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Admins.cs",
+              "RelativeToolTip": "OLMS\\Models\\Admins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:29:11.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuizzesController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\QuizzesController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\QuizzesController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\QuizzesController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\QuizzesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwF8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:50:04.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QuizDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\QuizDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\QuizDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\QuizDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\QuizDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:28:23.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Questions.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Questions.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Questions.cs",
+              "RelativeToolTip": "OLMS\\Models\\Questions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:27:16.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QuestionsDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\QuestionsDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\QuestionsDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\QuestionsDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\QuestionsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:28:01.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:50:42.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Quizzes.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Quizzes.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Quizzes.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Quizzes.cs",
+              "RelativeToolTip": "OLMS\\Models\\Quizzes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:24:30.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\PaymentDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\PaymentDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:26:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubmissionDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\SubmissionDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\SubmissionDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\SubmissionDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\SubmissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:29:18.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\StudentDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\StudentDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\StudentDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:28:45.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InstructorDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\InstructorDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\InstructorDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\InstructorDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\InstructorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:13:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AssignmentDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\AssignmentDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\AssignmentDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\AssignmentDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\AssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:09:20.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Assignments.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Assignments.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Assignments.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Assignments.cs",
+              "RelativeToolTip": "OLMS\\Models\\Assignments.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:40:40.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\NotificationDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\NotificationDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:25:36.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\CourseDto.cs",
+              "RelativeDocumentMoniker": "OLMS\\DTO\\CourseDto.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\DTO\\CourseDto.cs",
+              "RelativeToolTip": "OLMS\\DTO\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:13:14.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "OLMS\\Controllers\\InstructorsController.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "OLMS\\Controllers\\InstructorsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:27:04.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "OLMS\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:54:07.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Cred.cs",
+              "DocumentMoniker": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Cred.cs",
+              "RelativeDocumentMoniker": "OLMS\\Models\\Cred.cs",
+              "ToolTip": "C:\\wipro\\CapstoneProject\\OLMS\\OLMS\\Models\\Cred.cs",
+              "RelativeToolTip": "OLMS\\Models\\Cred.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:40:02.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
